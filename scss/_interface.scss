@@ -1,0 +1,14 @@
+body {
+    color: var(--text-color);
+    background-color: var(--background-color);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: var(--font-size-m);
+    line-height: var(--line-height-m);
+    font-weight: var(--font-weight-m);
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
